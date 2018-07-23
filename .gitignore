@@ -38,4 +38,4 @@ Thumbs.db
 
 # Specific files #
 ##################
-git rm --catched assignment1/requirements.text
+/assignment1/requirements.text
